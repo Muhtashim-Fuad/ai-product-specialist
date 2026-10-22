@@ -300,3 +300,7 @@ Its prompting strategy aims to enforce the following rules:
 - Avoid logging sensitive user queries or API credentials.
     
 - Configure local AI server access carefully when using Ollama on a network.
+
+<img width="268" height="480" alt="Screenshot 2026-10-20 at 5 17 31 PM" src="https://github.com/user-attachments/assets/8e76449d-ff94-4cfb-b081-59f34a59c806" />
+<img width="268" height="480" alt="Screenshot 2026-10-20 at 4 45 17 PM" src="https://github.com/user-attachments/assets/f6192129-7f79-4ed6-bae3-904b6045680e" />
+<img width="268" height="480" alt="Screenshot 2026-10-20 at 4 43 30 PM" src="https://github.com/user-attachments/assets/9ba3846d-883a-4b50-8dc8-d5863c4d74e4" />
